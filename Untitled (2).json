@@ -1,0 +1,1099 @@
+[
+  {
+    "career": "Artificial Intelligence Engineer",
+    "required_skills": ["Python", "Machine Learning", "Deep Learning", "Neural Networks", "TensorFlow/PyTorch"],
+    "interest_tags": ["AI", "technology", "automation", "research", "innovation"],
+    "roadmap": {
+      "Beginner": [
+        "Learn Python basics and math for ML (linear algebra, calculus, statistics)",
+        "Understand AI concepts: supervised/unsupervised learning, neural networks",
+        "Study data manipulation with NumPy and Pandas",
+        "Build 2-3 small guided projects (spam detection, basic image classification)"
+      ],
+      "Intermediate": [
+        "Implement ML algorithms from scratch and train models using TensorFlow/PyTorch",
+        "Master CNNs, RNNs, and transformers architecture",
+        "Practice hyperparameter tuning and model optimization",
+        "Work on 3-5 independent projects (computer vision, NLP, recommendation systems)",
+        "Contribute to open-source AI projects and participate in Kaggle competitions"
+      ],
+      "Advanced": [
+        "Build deep learning architectures and deploy models in production",
+        "Apply MLOps practices: model versioning, monitoring, CI/CD for AI",
+        "Specialize in NLP, Computer Vision, or Generative AI (LLMs, GANs)",
+        "Research cutting-edge papers and implement novel architectures",
+        "Lead AI projects, mentor beginners, and publish technical content"
+      ]
+    },
+    "resources": [
+      "Coursera - Andrew Ng's Machine Learning & Deep Learning Specialization",
+      "Fast.ai - Practical Deep Learning for Coders",
+      "Papers With Code - Latest AI Research",
+      "YouTube - Sentdex & StatQuest"
+    ]
+  },
+  {
+    "career": "Data Scientist",
+    "required_skills": ["Python", "Statistics", "Machine Learning", "Data Visualization", "SQL"],
+    "interest_tags": ["data", "analytics", "research", "problem-solving", "business"],
+    "roadmap": {
+      "Beginner": [
+        "Learn Python (NumPy, Pandas) and SQL for data manipulation",
+        "Master statistics fundamentals: probability, distributions, hypothesis testing",
+        "Understand data cleaning, EDA, and visualization (Matplotlib/Seaborn)",
+        "Complete 2-3 data analysis projects using public datasets (Kaggle, UCI)"
+      ],
+      "Intermediate": [
+        "Build predictive models using scikit-learn (regression, classification, clustering)",
+        "Master feature engineering, cross-validation, and model evaluation metrics",
+        "Learn advanced visualization with Tableau/Power BI",
+        "Work on 3-5 end-to-end projects from data collection to insights presentation",
+        "Create a GitHub portfolio showcasing diverse data science projects"
+      ],
+      "Advanced": [
+        "Specialize in deep learning, time series forecasting, or causal inference",
+        "Learn big data tools (Spark) and cloud platforms (AWS/GCP)",
+        "Deploy ML models in production using Docker, APIs, and monitoring tools",
+        "Lead business-critical projects and communicate insights to stakeholders",
+        "Mentor junior data scientists and contribute to DS communities"
+      ]
+    },
+    "resources": [
+      "DataCamp - Data Scientist with Python Track",
+      "Kaggle - Competitions & Datasets",
+      "YouTube - Ken Jee & StatQuest",
+      "Book - 'Python for Data Analysis' by Wes McKinney"
+    ]
+  },
+  {
+    "career": "Machine Learning Engineer",
+    "required_skills": ["Python", "Machine Learning", "MLOps", "Cloud Computing", "Software Engineering"],
+    "interest_tags": ["ML", "engineering", "automation", "deployment", "optimization"],
+    "roadmap": {
+      "Beginner": [
+        "Strengthen Python programming and software engineering best practices (Git, testing)",
+        "Study core ML algorithms and understand when to apply each",
+        "Learn basic model training, evaluation, and deployment",
+        "Build 2-3 simple ML applications with Flask/FastAPI",
+        "Experiment with cloud platforms (AWS/GCP basics)"
+      ],
+      "Intermediate": [
+        "Master MLOps: model versioning (MLflow, DVC), CI/CD pipelines, Docker",
+        "Learn model optimization, A/B testing, and monitoring in production",
+        "Build scalable ML systems using cloud services (SageMaker, Vertex AI)",
+        "Work on 3-5 real-time prediction systems with automated retraining",
+        "Implement data pipelines and feature stores"
+      ],
+      "Advanced": [
+        "Design enterprise-level ML systems with high availability and low latency",
+        "Implement advanced optimization: model compression, quantization, distillation",
+        "Build custom ML infrastructure and automate entire ML lifecycle",
+        "Lead ML engineering teams and establish best practices",
+        "Contribute to MLOps tools or frameworks and solve complex production challenges"
+      ]
+    },
+    "resources": [
+      "Coursera - Machine Learning Engineering for Production (MLOps)",
+      "Made With ML - MLOps Best Practices",
+      "AWS/GCP - ML Platform Documentation",
+      "GitHub - Awesome MLOps Repository"
+    ]
+  },
+  {
+    "career": "Cloud Architect",
+    "required_skills": ["AWS/Azure/GCP", "Networking", "Infrastructure as Code", "Security", "System Design"],
+    "interest_tags": ["cloud", "infrastructure", "architecture", "scalability", "enterprise"],
+    "roadmap": {
+      "Beginner": [
+        "Understand cloud computing fundamentals (IaaS, PaaS, SaaS)",
+        "Learn one major cloud provider (AWS recommended): EC2, S3, RDS, VPC",
+        "Study basic networking concepts and cloud security",
+        "Get AWS Certified Cloud Practitioner or equivalent certification",
+        "Build 2-3 simple web applications on cloud infrastructure"
+      ],
+      "Intermediate": [
+        "Master advanced cloud services: Lambda, ECS/EKS, API Gateway, CloudFront",
+        "Learn Infrastructure as Code with Terraform or CloudFormation",
+        "Design multi-tier architectures with auto-scaling and load balancing",
+        "Understand cloud security, IAM policies, and compliance frameworks",
+        "Earn AWS Solutions Architect Associate or Azure Administrator certification",
+        "Work on 3-5 cloud migration or modernization projects"
+      ],
+      "Advanced": [
+        "Design enterprise-grade, multi-region, highly available architectures",
+        "Master disaster recovery, cost optimization, and FinOps strategies",
+        "Implement hybrid/multi-cloud solutions and cloud-native development",
+        "Lead cloud transformation projects and establish governance frameworks",
+        "Obtain expert certifications (AWS Solutions Architect Professional)",
+        "Mentor teams and drive cloud adoption across organizations"
+      ]
+    },
+    "resources": [
+      "A Cloud Guru / CloudAcademy - Cloud Certification Paths",
+      "AWS Well-Architected Framework Documentation",
+      "YouTube - freeCodeCamp Cloud Courses",
+      "Linux Academy / Pluralsight"
+    ]
+  },
+  {
+    "career": "Cybersecurity Specialist",
+    "required_skills": ["Network Security", "Penetration Testing", "Security Tools", "Linux", "Incident Response"],
+    "interest_tags": ["security", "hacking", "protection", "ethical-hacking", "risk"],
+    "roadmap": {
+      "Beginner": [
+        "Learn networking fundamentals (TCP/IP, DNS, firewalls, protocols)",
+        "Understand common vulnerabilities (OWASP Top 10) and attack types",
+        "Study Linux command line and basic scripting (Bash, Python)",
+        "Complete beginner CTF challenges on TryHackMe or HackTheBox",
+        "Get CompTIA Security+ or equivalent certification"
+      ],
+      "Intermediate": [
+        "Master penetration testing tools (Metasploit, Burp Suite, Nmap, Wireshark)",
+        "Learn cryptography, secure coding practices, and security frameworks (NIST, ISO 27001)",
+        "Practice 10+ intermediate CTFs and build a home security lab",
+        "Specialize in web app security, network security, or malware analysis",
+        "Obtain CEH or OSCP certification"
+      ],
+      "Advanced": [
+        "Conduct professional red team operations and security assessments",
+        "Master advanced topics: zero-trust architecture, cloud security, threat hunting",
+        "Lead incident response operations and develop enterprise security strategies",
+        "Obtain advanced certifications (CISSP, OSEP, GIAC)",
+        "Contribute to security research, discover CVEs, or lead security consulting teams"
+      ]
+    },
+    "resources": [
+      "TryHackMe & HackTheBox - Practical Labs",
+      "Cybrary - Free Cybersecurity Courses",
+      "YouTube - NetworkChuck & John Hammond",
+      "OWASP - Security Resources"
+    ]
+  },
+  {
+    "career": "Blockchain Developer",
+    "required_skills": ["Solidity", "Smart Contracts", "Web3.js", "Cryptography", "Blockchain Architecture"],
+    "interest_tags": ["blockchain", "crypto", "decentralization", "web3", "innovation"],
+    "roadmap": {
+      "Beginner": [
+        "Understand blockchain fundamentals: blocks, transactions, consensus mechanisms",
+        "Learn about Bitcoin and Ethereum architectures",
+        "Study basic cryptography (hashing, digital signatures, encryption)",
+        "Learn Solidity basics and deploy simple smart contracts on testnets",
+        "Build 2-3 basic DApps (token creation, simple voting system)"
+      ],
+      "Intermediate": [
+        "Build complete DApps with frontend (React + Web3.js/Ethers.js) and smart contracts",
+        "Learn advanced Solidity patterns and security best practices",
+        "Understand common vulnerabilities (reentrancy, overflow, front-running)",
+        "Explore DeFi protocols, NFTs, and DAOs",
+        "Work on 3-5 projects: DEX, NFT marketplace, staking platform",
+        "Participate in Web3 hackathons and contribute to open-source projects"
+      ],
+      "Advanced": [
+        "Audit smart contracts for security vulnerabilities and optimize gas efficiency",
+        "Build complex DeFi protocols, cross-chain bridges, or Layer 2 solutions",
+        "Master advanced blockchain architectures (Cosmos, Polkadot, Solana)",
+        "Contribute to core blockchain protocols or build infrastructure tooling",
+        "Lead blockchain development teams or work as security auditor for Web3 projects"
+      ]
+    },
+    "resources": [
+      "CryptoZombies - Learn Solidity Through Games",
+      "Alchemy University - Web3 Development",
+      "YouTube - Dapp University & Patrick Collins",
+      "OpenZeppelin - Smart Contract Libraries & Security"
+    ]
+  },
+  {
+    "career": "Software Engineer",
+    "required_skills": ["Programming (Python/Java/JavaScript)", "Data Structures", "Algorithms", "Git", "System Design"],
+    "interest_tags": ["coding", "development", "problem-solving", "technology", "building"],
+    "roadmap": {
+      "Beginner": [
+        "Master one programming language thoroughly (Python, Java, or JavaScript)",
+        "Learn core data structures (arrays, linked lists, stacks, queues, trees, graphs)",
+        "Understand basic algorithms (searching, sorting, recursion)",
+        "Study OOP principles and software design basics",
+        "Build 5-10 small projects and practice 20+ LeetCode easy problems"
+      ],
+      "Intermediate": [
+        "Study advanced algorithms (dynamic programming, greedy, graph algorithms)",
+        "Learn software design patterns and clean code principles",
+        "Master a framework (React, Spring Boot, Django, Node.js)",
+        "Build 3-5 full-stack applications with database integration",
+        "Practice 30+ LeetCode medium problems and contribute to open source",
+        "Learn testing, debugging, and code review practices"
+      ],
+      "Advanced": [
+        "Master system design for scalable applications (microservices, caching, load balancing)",
+        "Learn distributed systems, databases at scale, and architectural patterns",
+        "Solve 20+ hard algorithmic problems and ace technical interviews",
+        "Lead development projects, establish coding standards, and mentor juniors",
+        "Specialize in backend, frontend, or full-stack and contribute to major open-source projects"
+      ]
+    },
+    "resources": [
+      "LeetCode / HackerRank - Coding Practice",
+      "The Odin Project / freeCodeCamp - Full Stack Paths",
+      "YouTube - CS Dojo & Traversy Media",
+      "Books - 'Clean Code' & 'Designing Data-Intensive Applications'"
+    ]
+  },
+  {
+    "career": "DevOps Engineer",
+    "required_skills": ["Linux", "Docker/Kubernetes", "CI/CD", "Cloud Platforms", "Scripting"],
+    "interest_tags": ["automation", "infrastructure", "deployment", "cloud", "operations"],
+    "roadmap": {
+      "Beginner": [
+        "Master Linux command line, shell scripting, and system administration",
+        "Learn networking basics and version control (Git)",
+        "Study containerization with Docker and basic Docker Compose",
+        "Set up basic CI/CD pipelines with Jenkins or GitHub Actions",
+        "Learn one cloud platform basics (AWS/GCP/Azure)"
+      ],
+      "Intermediate": [
+        "Master Kubernetes for container orchestration and service management",
+        "Learn Infrastructure as Code (Terraform, Ansible, CloudFormation)",
+        "Implement comprehensive CI/CD pipelines with automated testing",
+        "Study monitoring and logging (Prometheus, Grafana, ELK stack)",
+        "Automate infrastructure provisioning and implement DevSecOps practices",
+        "Work on 3-5 deployment automation projects"
+      ],
+      "Advanced": [
+        "Design enterprise-scale DevOps practices and toolchains",
+        "Master GitOps workflows, service mesh (Istio), and chaos engineering",
+        "Lead cloud migration and infrastructure modernization projects",
+        "Implement advanced observability and Site Reliability Engineering (SRE) practices",
+        "Establish DevOps culture, mentor teams, and optimize SDLC processes across organizations"
+      ]
+    },
+    "resources": [
+      "KodeKloud - DevOps Learning Platform",
+      "YouTube - TechWorld with Nana",
+      "Linux Academy / A Cloud Guru",
+      "Kubernetes Documentation & CNCF Resources"
+    ]
+  },
+  {
+    "career": "Product Manager",
+    "required_skills": ["Product Strategy", "User Research", "Roadmapping", "Communication", "Analytics"],
+    "interest_tags": ["product", "strategy", "user-experience", "business", "leadership"],
+    "roadmap": {
+      "Beginner": [
+        "Understand product management fundamentals: product lifecycle, user stories, prioritization",
+        "Learn user research methods and basic UX principles",
+        "Study product analytics tools (Google Analytics, Mixpanel)",
+        "Read PM books ('Inspired', 'Cracking the PM Interview') and analyze case studies",
+        "Work on 2-3 side projects or volunteer to manage features in community projects"
+      ],
+      "Intermediate": [
+        "Master product frameworks (AARRR, Jobs-to-be-Done, OKRs, RICE prioritization)",
+        "Conduct user interviews, surveys, and usability tests",
+        "Create detailed product roadmaps, PRDs, and user journey maps",
+        "Learn A/B testing and data-driven decision making",
+        "Build portfolio showcasing product thinking and apply for APM roles",
+        "Understand technical concepts to collaborate effectively with engineers"
+      ],
+      "Advanced": [
+        "Lead product strategy for multiple products or entire product lines",
+        "Master stakeholder management and cross-functional leadership",
+        "Drive go-to-market strategies, product launches, and growth initiatives",
+        "Use advanced analytics for retention, engagement, and monetization",
+        "Mentor junior PMs, establish product processes, and build product culture",
+        "Progress to Senior PM, Group PM, or Director of Product"
+      ]
+    },
+    "resources": [
+      "Coursera - Digital Product Management Specialization",
+      "Product School - PM Courses & Certifications",
+      "Books - 'Inspired' by Marty Cagan & 'Cracking the PM Interview'",
+      "YouTube - Product Management Insider"
+    ]
+  },
+  {
+    "career": "Management Consultant",
+    "required_skills": ["Problem Solving", "Business Analysis", "Communication", "Excel/PowerPoint", "Strategic Thinking"],
+    "interest_tags": ["consulting", "strategy", "business", "problem-solving", "client-facing"],
+    "roadmap": {
+      "Beginner": [
+        "Develop business fundamentals: financial statements, business models, industry analysis",
+        "Master Excel (advanced formulas, pivot tables) and PowerPoint (storytelling)",
+        "Learn case interview frameworks (profitability, market entry, M&A)",
+        "Study basic strategy concepts and consulting methodologies",
+        "Practice 20+ case interviews with peers or platforms like Preplounge",
+        "Apply for consulting internships or entry-level analyst roles"
+      ],
+      "Intermediate": [
+        "Master advanced analytical frameworks and problem-solving methodologies",
+        "Conduct market research, competitive analysis, and financial modeling",
+        "Develop strong client communication and executive presentation skills",
+        "Lead workstreams on consulting projects and manage junior team members",
+        "Build industry expertise in 1-2 sectors (tech, healthcare, financial services)",
+        "Target associate consultant positions at top firms"
+      ],
+      "Advanced": [
+        "Lead end-to-end consulting engagements and manage client relationships",
+        "Develop thought leadership in specific domains and publish insights",
+        "Mentor junior consultants and conduct problem-solving workshops",
+        "Master change management and implementation strategies",
+        "Build C-suite relationships and drive business development",
+        "Progress to Manager, Senior Manager, or Partner track"
+      ]
+    },
+    "resources": [
+      "Case Interview Prep - Victor Cheng, Management Consulted",
+      "Books - 'Case in Point' & 'The McKinsey Way'",
+      "Coursera - Strategy Specializations",
+      "Vault Consulting Guides"
+    ]
+  },
+  {
+    "career": "Business Analyst",
+    "required_skills": ["Requirements Analysis", "SQL", "Data Analysis", "Process Mapping", "Stakeholder Management"],
+    "interest_tags": ["business", "analysis", "processes", "data", "problem-solving"],
+    "roadmap": {
+      "Beginner": [
+        "Learn business analysis fundamentals: requirement gathering, process documentation",
+        "Master Excel for data analysis and visualization (pivot tables, charts)",
+        "Study SQL basics for querying databases and extracting insights",
+        "Understand SDLC, Agile, and Scrum methodologies",
+        "Learn process mapping tools (Visio, Lucidchart) and complete 2-3 BA projects"
+      ],
+      "Intermediate": [
+        "Master advanced requirement elicitation (workshops, interviews, observation)",
+        "Learn data analysis tools (Tableau, Power BI) and statistical methods",
+        "Understand enterprise systems (ERP, CRM, BI tools)",
+        "Create detailed BRDs, FRDs, user stories, and acceptance criteria",
+        "Facilitate cross-functional meetings and manage stakeholder expectations",
+        "Get CBAP or PMI-PBA certification and work on 3-5 complex BA projects"
+      ],
+      "Advanced": [
+        "Lead strategic business initiatives and digital transformation projects",
+        "Master business process reengineering and change management",
+        "Drive data-driven decision making and analytics strategy across organizations",
+        "Mentor junior BAs and establish BA centers of excellence",
+        "Develop deep domain expertise (finance, healthcare, retail, supply chain)",
+        "Progress to Senior BA, Lead BA, or transition to Product/Project Management"
+      ]
+    },
+    "resources": [
+      "IIBA - Business Analysis Body of Knowledge (BABOK)",
+      "Udemy - Business Analysis Courses",
+      "LinkedIn Learning - BA Career Paths",
+      "Books - 'Business Analysis' by Debra Paul"
+    ]
+  },
+  {
+    "career": "Financial Analyst",
+    "required_skills": ["Financial Modeling", "Excel", "Accounting", "Valuation", "Data Analysis"],
+    "interest_tags": ["finance", "numbers", "analysis", "investment", "business"],
+    "roadmap": {
+      "Beginner": [
+        "Master accounting fundamentals: income statement, balance sheet, cash flow",
+        "Learn Excel thoroughly (formulas, pivot tables, VLOOKUP, charts)",
+        "Understand financial metrics (ratios, margins, ROI, EBITDA)",
+        "Study basic valuation concepts and time value of money",
+        "Complete financial modeling courses and analyze 5+ public company financials"
+      ],
+      "Intermediate": [
+        "Build complex financial models (DCF, LBO, M&A, 3-statement models)",
+        "Master advanced Excel (macros, VBA, Power Query) and learn SQL",
+        "Understand industry-specific metrics and benchmarking",
+        "Develop forecasting skills and sensitivity/scenario analysis",
+        "Get CFA Level 1 or FP&A certification",
+        "Work on real corporate finance projects or equity research assignments"
+      ],
+      "Advanced": [
+        "Lead financial planning & analysis (FP&A) or corporate development functions",
+        "Master strategic finance: capital allocation, M&A strategy, fundraising",
+        "Build sophisticated financial models for business decisions",
+        "Present financial insights and recommendations to C-suite executives",
+        "Complete CFA charter or MBA and mentor junior analysts",
+        "Progress to Senior Analyst, Finance Manager, Director, or transition to IB/PE"
+      ]
+    },
+    "resources": [
+      "Corporate Finance Institute (CFI) - Financial Modeling Courses",
+      "Wall Street Prep - Financial Training",
+      "CFA Institute - CFA Program",
+      "YouTube - The Financial Controller"
+    ]
+  },
+  {
+    "career": "Investment Banker",
+    "required_skills": ["Financial Modeling", "Valuation", "M&A", "Excel/PowerPoint", "Deal Execution"],
+    "interest_tags": ["finance", "deals", "M&A", "capital-markets", "high-stakes"],
+    "roadmap": {
+      "Beginner": [
+        "Master accounting and corporate finance fundamentals thoroughly",
+        "Build exceptional Excel and PowerPoint skills (modeling + storytelling)",
+        "Learn basic valuation methods (DCF, comps, precedent transactions)",
+        "Understand debt/equity markets and investment banking products",
+        "Study M&A process and deal structures extensively",
+        "Network intensively and prepare for IB interviews, target summer analyst internships"
+      ],
+      "Intermediate": [
+        "Master complex financial modeling for M&A, IPOs, debt/equity offerings",
+        "Learn deal execution from origination to closing",
+        "Develop industry expertise (TMT, healthcare, energy, financial institutions)",
+        "Build pitch books and marketing materials for live deals",
+        "Manage junior analysts and coordinate deal teams effectively",
+        "Work 80-100 hour weeks developing technical and client management skills"
+      ],
+      "Advanced": [
+        "Lead deal origination, execution, and client relationship management",
+        "Master complex deal structures, negotiations, and transaction advisory",
+        "Build C-suite relationships and drive significant business development",
+        "Mentor and manage deal teams across multiple transactions",
+        "Develop deep sector expertise and thought leadership",
+        "Progress from Analyst → Associate → VP → Director → Managing Director"
+      ]
+    },
+    "resources": [
+      "Wall Street Prep - IB Training Programs",
+      "Merger & Inquisitions - IB Career Resources",
+      "Breaking Into Wall Street (BIWS)",
+      "Books - 'Investment Banking' by Rosenbaum & Pearl"
+    ]
+  },
+  {
+    "career": "AR/VR Developer",
+    "required_skills": ["Unity/Unreal Engine", "3D Modeling", "C#/C++", "Computer Graphics", "XR SDK"],
+    "interest_tags": ["VR", "AR", "immersive", "gaming", "3D", "innovation"],
+    "roadmap": {
+      "Beginner": [
+        "Learn Unity or Unreal Engine basics and create simple 3D scenes",
+        "Master C# (Unity) or C++ (Unreal) programming fundamentals",
+        "Understand 3D mathematics, transforms, and coordinate systems",
+        "Study basic 3D modeling with Blender and asset integration",
+        "Build 2-3 simple VR experiences (virtual tours, basic interactions)",
+        "Get a VR headset (Meta Quest) for testing and learning XR design principles"
+      ],
+      "Intermediate": [
+        "Master XR SDKs (Oculus Integration, ARKit, ARCore, OpenXR)",
+        "Implement advanced interactions: hand tracking, eye tracking, haptics",
+        "Learn spatial audio, performance optimization, and frame rate management",
+        "Build 3-5 polished AR/VR applications with intuitive user interfaces",
+        "Study human factors, comfort, and accessibility in XR",
+        "Create portfolio showcasing games, training simulations, or visualization tools"
+      ],
+      "Advanced": [
+        "Develop complex multi-user XR experiences with networking and synchronization",
+        "Master advanced graphics programming, shader development, and rendering optimization",
+        "Build enterprise XR applications (training, simulation, remote collaboration)",
+        "Optimize for different platforms (Quest, PSVR, HoloLens, mobile AR)",
+        "Lead XR development teams and establish XR best practices",
+        "Contribute to XR standards or specialize in spatial computing/metaverse development"
+      ]
+    },
+    "resources": [
+      "Unity Learn - VR Development Pathway",
+      "Coursera - VR Specialization",
+      "YouTube - Valem & Justin P Barnett",
+      "Meta Developer Resources - XR Development"
+    ]
+  },
+  {
+    "career": "Strategy Consultant",
+    "required_skills": ["Strategic Thinking", "Business Analysis", "Market Research", "Communication", "Problem Solving"],
+    "interest_tags": ["strategy", "consulting", "business", "corporate", "transformation"],
+    "roadmap": {
+      "Beginner": [
+        "Build strong business fundamentals: competitive strategy, industry analysis, business models",
+        "Master analytical frameworks (Porter's Five Forces, SWOT, BCG Matrix, Value Chain)",
+        "Develop structured problem-solving and case interview skills",
+        "Learn advanced Excel and PowerPoint for strategic presentations",
+        "Study strategy case studies from MBB firms (McKinsey, BCG, Bain)",
+        "Practice 30+ case interviews and target MBB internships"
+      ],
+      "Intermediate": [
+        "Master strategy development across contexts: corporate, business unit, functional",
+        "Conduct sophisticated market analyses, competitive intelligence, due diligence",
+        "Lead strategic projects and facilitate client strategy workshops",
+        "Develop deep industry expertise and domain knowledge (2-3 sectors)",
+        "Build C-suite communication and presentation skills",
+        "Progress from Analyst/Associate to Consultant, consider MBA for career acceleration"
+      ],
+      "Advanced": [
+        "Drive major strategic transformations for Fortune 500 clients",
+        "Lead business development and manage key client relationships",
+        "Develop proprietary methodologies and publish thought leadership",
+        "Mentor consultants and lead strategy practice areas",
+        "Build expertise in domains: digital transformation, M&A strategy, growth strategy",
+        "Progress to Principal/Partner or transition to CSO/CEO roles in corporations"
+      ]
+    },
+    "resources": [
+      "Books - 'Good Strategy Bad Strategy', 'Blue Ocean Strategy'",
+      "Harvard Business Review - Strategy Articles",
+      "Case Interview Frameworks - Victor Cheng",
+      "Strategy& / BCG / McKinsey Publications"
+    ]
+  },
+  {
+    "career": "UX/UI Designer",
+    "required_skills": ["Figma/Adobe XD", "User Research", "Prototyping", "Visual Design", "Interaction Design"],
+    "interest_tags": ["design", "user-experience", "creativity", "visual", "problem-solving"],
+    "roadmap": {
+      "Beginner": [
+        "Learn design fundamentals: color theory, typography, layout, composition",
+        "Master Figma or Adobe XD for wireframing and prototyping",
+        "Understand UX principles: user-centered design, information architecture, usability",
+        "Study design systems, UI patterns, and accessibility basics",
+        "Build 3-5 redesign projects for existing apps/websites",
+        "Learn basic user research methods (surveys, interviews)"
+      ],
+      "Intermediate": [
+        "Master end-to-end UX process: research, personas, journeys, wireframes, prototypes, testing",
+        "Conduct user interviews, usability tests, and analyze findings",
+        "Learn advanced prototyping with micro-interactions and animations",
+        "Build design systems and component libraries from scratch",
+        "Collaborate with developers and understand HTML/CSS basics",
+        "Create strong portfolio with 5-7 case studies showing process and impact",
+        "Freelance or work at design agencies/startups"
+      ],
+      "Advanced": [
+        "Lead design strategy and vision for products and define design principles",
+        "Master advanced research methodologies and data-driven design practices",
+        "Influence product direction through design thinking and innovation",
+        "Mentor junior designers and establish design culture across organizations",
+        "Build and manage enterprise design systems at scale",
+        "Specialize in service design, design ops, or accessibility",
+        "Progress to Senior Designer, Lead Designer, Design Director, or Head of Design"
+      ]
+    },
+    "resources": [
+      "Google UX Design Certificate - Coursera",
+      "Interaction Design Foundation",
+      "YouTube - Flux & DesignCourse",
+      "Dribbble & Behance - Design Inspiration & Learning"
+    ]
+  },
+  {
+    "career": "Automation Engineer",
+    "required_skills": ["Python/Java", "Selenium", "CI/CD", "Testing Frameworks", "Scripting"],
+    "interest_tags": ["automation", "testing", "quality", "efficiency", "scripting"],
+    "roadmap": {
+      "Beginner": [
+        "Learn programming fundamentals (Python or Java)",
+        "Understand software testing concepts: unit, integration, system, acceptance testing",
+        "Master Selenium WebDriver for web automation basics",
+        "Learn basic scripting for task automation and version control (Git)",
+        "Study SDLC and Agile testing methodologies",
+        "Create 2-3 automation scripts for simple web applications"
+      ],
+      "Intermediate": [
+        "Master test automation frameworks (TestNG, PyTest, JUnit, Cucumber)",
+        "Learn API testing with RestAssured, Postman, or requests library",
+        "Implement CI/CD pipelines with Jenkins, GitLab CI, or GitHub Actions",
+        "Study BDD frameworks and write feature files with Gherkin",
+        "Build robust, maintainable test automation suites (Page Object Model)",
+        "Learn mobile automation (Appium) and performance testing basics",
+        "Work on 3-5 enterprise test automation projects"
+      ],
+      "Advanced": [
+        "Design comprehensive automation strategies for complex systems",
+        "Master advanced topics: containerized testing, cloud testing, AI-powered testing",
+        "Lead test automation initiatives and establish quality engineering practices",
+        "Implement shift-left testing and full DevOps integration",
+        "Build custom automation tools, frameworks, and infrastructure",
+        "Progress to Senior Automation Engineer, QA Architect, or SDET",
+        "Mentor teams and drive testing transformation across organizations"
+      ]
+    },
+    "resources": [
+      "Test Automation University - Free Courses",
+      "Udemy - Selenium & Automation Testing",
+      "YouTube - Automation Step by Step",
+      "GitHub - Automation Framework Examples"
+    ]
+  },
+  {
+    "career": "Data Analyst",
+    "required_skills": ["Python", "SQL", "Excel", "Data Visualization", "Statistics"],
+    "interest_tags": ["data", "business", "analytics", "insights", "reporting"],
+    "roadmap": {
+      "Beginner": [
+        "Master Excel: pivot tables, VLOOKUP, formulas, conditional formatting, charts",
+        "Learn SQL for data extraction, filtering, and basic joins",
+        "Understand basic statistics: mean, median, distributions, correlation",
+        "Study data cleaning and preparation techniques",
+        "Learn Python basics (Pandas, NumPy) or R for data manipulation",
+        "Analyze 3-5 public datasets and create simple reports"
+      ],
+      "Intermediate": [
+        "Master advanced SQL (joins, subqueries, window functions, CTEs)",
+        "Build interactive dashboards with Tableau or Power BI",
+        "Learn statistical analysis and hypothesis testing",
+        "Develop business acumen to translate data into actionable insights",
+        "Master data storytelling and visualization best practices",
+        "Work on 4-6 business analytics projects: customer segmentation, sales analysis, marketing attribution"
+      ],
+      "Advanced": [
+        "Lead analytical projects that drive key business decisions and strategy",
+        "Master advanced analytics: predictive modeling, A/B testing, cohort analysis",
+        "Build automated reporting systems and self-service analytics platforms",
+        "Develop deep domain expertise (marketing analytics, product analytics, financial analytics)",
+        "Mentor junior analysts and establish analytics best practices and standards",
+        "Progress to Senior Analyst, Analytics Manager, or transition to Data Science"
+      ]
+    },
+    "resources": [
+      "Kaggle - Datasets & Learning",
+      "DataCamp - Data Analysis Tracks",
+      "YouTube - Alex The Analyst & Luke Barousse",
+      "Mode Analytics - SQL Tutorial"
+    ]
+  },
+  {
+    "career": "Digital Marketing Manager",
+    "required_skills": ["SEO/SEM", "Social Media Marketing", "Analytics", "Content Strategy", "PPC"],
+    "interest_tags": ["marketing", "digital", "social-media", "strategy", "creative"],
+    "roadmap": {
+      "Beginner": [
+        "Learn digital marketing fundamentals: SEO, SEM, social media, email, content marketing",
+        "Master Google Analytics and Google Ads basics",
+        "Understand customer journey, conversion funnels, and marketing metrics",
+        "Study social media platforms and their algorithms (Instagram, Facebook, LinkedIn, TikTok)",
+        "Complete Google Digital Garage or HubSpot certifications",
+        "Create and manage 2-3 campaigns for personal projects or small businesses"
+      ],
+      "Intermediate": [
+        "Master multi-channel campaign planning and execution",
+        "Learn advanced SEO techniques and technical optimization",
+        "Develop expertise in paid advertising (Google Ads, Facebook Ads, LinkedIn Ads)",
+        "Implement marketing automation and email campaign workflows",
+        "Use analytics for campaign optimization and ROI measurement",
+        "Build portfolio with 5+ successful campaigns showing metrics and results",
+        "Manage marketing budgets ($5k-$50k) and lead small teams"
+      ],
+      "Advanced": [
+        "Develop comprehensive digital marketing strategies aligned with business goals",
+        "Master growth hacking, conversion rate optimization, and customer acquisition at scale",
+        "Lead omnichannel campaigns across multiple platforms and touchpoints",
+        "Manage large marketing budgets ($100k+) and cross-functional teams",
+        "Use advanced analytics, attribution modeling, and marketing mix optimization",
+        "Build brand presence and thought leadership in the industry",
+        "Progress to Senior Manager, Director of Digital Marketing, VP Marketing, or CMO"
+      ]
+    },
+    "resources": [
+      "Google Digital Garage & Google Skillshop",
+      "HubSpot Academy - Free Marketing Courses",
+      "YouTube - Neil Patel & Ahrefs",
+      "SEMrush Academy & Moz SEO Learning Center"
+    ]
+  },
+  {
+    "career": "ESG (Sustainability) Consultant",
+    "required_skills": ["Sustainability Strategy", "ESG Reporting", "Data Analysis", "Stakeholder Engagement", "Regulatory Knowledge"],
+    "interest_tags": ["sustainability", "environment", "social-impact", "consulting", "ESG"],
+    "roadmap": {
+      "Beginner": [
+        "Understand ESG fundamentals: environmental, social, and governance factors",
+        "Learn sustainability frameworks (GRI, SASB, TCFD, CDP, UN SDGs)",
+        "Study climate science basics and carbon accounting principles",
+        "Understand corporate sustainability trends and emerging regulations",
+        "Complete certifications like GRI Standards or SASB Fundamentals",
+        "Analyze 5-10 ESG reports from major companies across different sectors"
+      ],
+      "Intermediate": [
+        "Master ESG data collection, analysis, and reporting processes",
+        "Conduct materiality assessments and stakeholder engagement sessions",
+        "Learn carbon footprint calculation, Scope 1/2/3 emissions, and reduction strategies",
+        "Understand sustainable finance, green bonds, and ESG investing",
+        "Develop expertise in areas: climate risk, circular economy, social impact measurement",
+        "Work on 3-5 ESG consulting projects or corporate sustainability initiatives"
+      ],
+      "Advanced": [
+        "Lead ESG strategy development and sustainability transformations for organizations",
+        "Master emerging topics: nature-based solutions, science-based targets, just transition",
+        "Conduct ESG due diligence for M&A and investment decisions",
+        "Advise C-suite on integrating sustainability into core business strategy",
+        "Navigate complex regulations (EU CSRD, SEC climate disclosure rules)",
+        "Build thought leadership through publications, speaking engagements, and research",
+        "Progress to Director of Sustainability, ESG Partner, or Chief Sustainability Officer"
+      ]
+    },
+    "resources": [
+      "Cambridge Institute for Sustainability Leadership (CISL)",
+      "GRI & SASB - ESG Reporting Standards",
+      "Coursera - Sustainability Specializations",
+      "UN Sustainable Development Goals Knowledge Platform"
+    ]
+  },
+  {
+    "career": "Venture Capital Analyst",
+    "required_skills": ["Financial Analysis", "Market Research", "Due Diligence", "Networking", "Business Evaluation"],
+    "interest_tags": ["investing", "startups", "innovation", "finance", "entrepreneurship"],
+    "roadmap": {
+      "Beginner": [
+        "Build strong finance fundamentals: valuation, financial modeling, cap tables",
+        "Understand startup ecosystem: funding stages, term sheets, venture economics",
+        "Study technology trends and emerging industries (AI, fintech, biotech, SaaS)",
+        "Learn how to evaluate business models, unit economics, and TAM/SAM/SOM",
+        "Network extensively in startup and VC communities (events, conferences, online)",
+        "Develop investment thesis on 2-3 specific sectors and apply for VC internships"
+      ],
+      "Intermediate": [
+        "Master due diligence process: market analysis, competitive assessment, founder evaluation",
+        "Build strong sourcing networks and maintain consistent dealflow pipeline",
+        "Conduct deep sector research in focus areas and become domain expert",
+        "Support portfolio companies with strategic advice and operational guidance",
+        "Develop detailed investment memos and present to investment committee",
+        "Participate in board meetings, understand governance, and track portfolio performance"
+      ],
+      "Advanced": [
+        "Lead investment sourcing, evaluation, and execution end-to-end",
+        "Build strong reputation in specific investment thesis areas",
+        "Sit on multiple portfolio company boards and drive significant value creation",
+        "Mentor entrepreneurs and support company growth through networks and expertise",
+        "Develop LP relationships and support fund fundraising efforts",
+        "Progress from Analyst → Associate → Principal → Partner",
+        "Consider starting own fund or transitioning to startup operator/founder roles"
+      ]
+    },
+    "resources": [
+      "Venture Deals by Brad Feld & Jason Mendelson (Book)",
+      "Y Combinator - Startup School",
+      "CB Insights & PitchBook - Market Research",
+      "All-In Podcast & 20VC Podcast"
+    ]
+  },
+  {
+    "career": "Risk Analyst",
+    "required_skills": ["Risk Assessment", "Data Analysis", "Financial Modeling", "Regulatory Knowledge", "Statistics"],
+    "interest_tags": ["risk", "finance", "compliance", "analytics", "decision-making"],
+    "roadmap": {
+      "Beginner": [
+        "Learn risk management fundamentals: market, credit, operational, compliance risk",
+        "Master Excel and basic statistical analysis",
+        "Understand financial statements and key risk indicators (KRIs)",
+        "Study regulatory frameworks (Basel III, Dodd-Frank, SOX, GDPR basics)",
+        "Learn basic risk modeling and scenario analysis techniques",
+        "Complete FRM Part 1 or CFA Level 1 preparation"
+      ],
+      "Intermediate": [
+        "Master quantitative risk models: VaR, CVaR, stress testing, Monte Carlo simulations",
+        "Learn advanced data analysis with Python/R and SQL",
+        "Understand enterprise risk management (ERM) frameworks",
+        "Conduct risk assessments for specific domains (credit portfolios, trading desks, cyber)",
+        "Develop risk dashboards and reporting for management",
+        "Get FRM or PRM certification and work on 3-5 risk analysis projects"
+      ],
+      "Advanced": [
+        "Lead enterprise-wide risk assessment and mitigation strategies",
+        "Master advanced modeling: credit risk modeling, market risk analytics, operational risk quantification",
+        "Develop risk appetite frameworks and risk culture across organizations",
+        "Advise senior management on risk-adjusted decision making",
+        "Navigate complex regulatory requirements and audit processes",
+        "Progress to Senior Risk Analyst, Risk Manager, or Chief Risk Officer (CRO)"
+      ]
+    },
+    "resources": [
+      "GARP - Financial Risk Manager (FRM) Program",
+      "Risk Management Association (RMA) Resources",
+      "Coursera - Risk Management Specializations",
+      "Books - 'The Essentials of Risk Management' by Michel Crouhy"
+    ]
+  },
+  {
+    "career": "Operations Manager",
+    "required_skills": ["Process Optimization", "Project Management", "Data Analysis", "Leadership", "Supply Chain"],
+    "interest_tags": ["operations", "efficiency", "management", "logistics", "improvement"],
+    "roadmap": {
+      "Beginner": [
+        "Learn operations management fundamentals: process design, capacity planning, inventory management",
+        "Master Excel and basic data analysis for operational metrics",
+        "Understand Lean and Six Sigma principles (get Yellow Belt certification)",
+        "Study project management basics and tools (Asana, Monday.com, MS Project)",
+        "Learn supply chain fundamentals and logistics",
+        "Work as coordinator or analyst to understand operational workflows"
+      ],
+      "Intermediate": [
+        "Master process improvement methodologies: Lean, Six Sigma (Green Belt), Kaizen",
+        "Learn advanced analytics for operations: forecasting, optimization, simulation",
+        "Develop project management skills and get PMP or PRINCE2 certification",
+        "Understand supply chain management, vendor relationships, and procurement",
+        "Lead 3-5 process improvement projects with measurable results",
+        "Manage small teams and departmental operations"
+      ],
+      "Advanced": [
+        "Lead operations strategy and transformation for business units or entire organizations",
+        "Master advanced operations: network design, capacity planning, digital operations",
+        "Implement operational excellence programs and change management",
+        "Drive cost optimization, efficiency improvements, and quality initiatives",
+        "Build and lead operations teams across multiple locations or functions",
+        "Get Six Sigma Black Belt and progress to Director of Operations, VP Operations, or COO"
+      ]
+    },
+    "resources": [
+      "ASQ - Six Sigma Certifications",
+      "PMI - Project Management Professional (PMP)",
+      "Coursera - Operations Management Specializations",
+      "Books - 'The Goal' by Eliyahu Goldratt"
+    ]
+  },
+  {
+    "career": "Project Manager",
+    "required_skills": ["Project Planning", "Stakeholder Management", "Risk Management", "Agile/Scrum", "Communication"],
+    "interest_tags": ["projects", "management", "coordination", "delivery", "leadership"],
+    "roadmap": {
+      "Beginner": [
+        "Learn project management fundamentals: scope, time, cost, quality, risk",
+        "Understand project lifecycle and common methodologies (Waterfall, Agile, Hybrid)",
+        "Master PM tools (MS Project, Jira, Trello, Asana)",
+        "Study basic Agile/Scrum concepts and ceremonies",
+        "Learn stakeholder management and communication techniques",
+        "Work as project coordinator or assistant PM on 2-3 projects"
+      ],
+      "Intermediate": [
+        "Get PMP, PRINCE2, or Agile certifications (CSM, PMI-ACP)",
+        "Master project planning: WBS, Gantt charts, resource allocation, budgeting",
+        "Learn risk management, change management, and issue resolution",
+        "Develop strong leadership and conflict resolution skills",
+        "Lead 3-5 medium-sized projects ($50k-$500k budget) end-to-end",
+        "Manage cross-functional teams and multiple stakeholders"
+      ],
+      "Advanced": [
+        "Lead complex, strategic programs and portfolios ($1M+ budget)",
+        "Master program management and portfolio management techniques",
+        "Develop organizational PM methodologies and governance frameworks",
+        "Mentor junior PMs and build high-performing project teams",
+        "Drive project management maturity and establish PMO practices",
+        "Progress to Senior PM, Program Manager, PMO Director, or VP of Delivery"
+      ]
+    },
+    "resources": [
+      "PMI - Project Management Professional (PMP)",
+      "Scrum Alliance - Certified ScrumMaster (CSM)",
+      "Coursera - Google Project Management Certificate",
+      "Books - 'PMBOK Guide' & 'Scrum: The Art of Doing Twice the Work'"
+    ]
+  },
+  {
+    "career": "Business Development Manager",
+    "required_skills": ["Sales Strategy", "Relationship Building", "Negotiation", "Market Analysis", "Communication"],
+    "interest_tags": ["sales", "business", "growth", "partnerships", "networking"],
+    "roadmap": {
+      "Beginner": [
+        "Learn sales fundamentals: prospecting, pitching, objection handling, closing",
+        "Understand business development vs. sales and partnership types",
+        "Study CRM tools (Salesforce, HubSpot) and sales pipeline management",
+        "Learn market research and competitive analysis basics",
+        "Develop communication and presentation skills",
+        "Work as BDR or SDR generating leads and setting meetings for 6-12 months"
+      ],
+      "Intermediate": [
+        "Master consultative selling and solution-based sales approaches",
+        "Learn complex negotiation tactics and deal structuring",
+        "Develop account planning and territory management skills",
+        "Build strong networking and relationship building capabilities",
+        "Close 3-5 significant deals and consistently hit sales targets",
+        "Understand P&L impact and contribute to revenue strategy"
+      ],
+      "Advanced": [
+        "Lead business development strategy and drive company growth",
+        "Build strategic partnerships and alliances that scale revenue",
+        "Master enterprise sales cycles and C-suite relationship management",
+        "Develop market expansion strategies (new geographies, verticals, products)",
+        "Build and lead business development teams",
+        "Progress to Senior BDM, Director of Business Development, VP Sales, or Chief Revenue Officer"
+      ]
+    },
+    "resources": [
+      "Books - 'The Challenger Sale' & 'SPIN Selling'",
+      "LinkedIn Learning - Sales & Business Development",
+      "Sandler Training - Sales Methodology",
+      "HubSpot Sales Certification"
+    ]
+  },
+  {
+    "career": "E-commerce Manager",
+    "required_skills": ["E-commerce Platforms", "Digital Marketing", "Analytics", "User Experience", "Inventory Management"],
+    "interest_tags": ["e-commerce", "online-retail", "digital", "marketing", "operations"],
+    "roadmap": {
+      "Beginner": [
+        "Learn e-commerce fundamentals: business models (B2C, B2B, marketplace)",
+        "Master e-commerce platforms (Shopify, WooCommerce, Magento basics)",
+        "Understand digital marketing for e-commerce: SEO, PPC, email, social media",
+        "Study customer journey, conversion optimization, and UX basics",
+        "Learn Google Analytics and e-commerce tracking",
+        "Set up and manage 1-2 small online stores (personal projects or freelance)"
+      ],
+      "Intermediate": [
+        "Master e-commerce analytics: conversion rate, AOV, CAC, LTV, retention",
+        "Learn advanced digital marketing: retargeting, email automation, influencer marketing",
+        "Understand inventory management, fulfillment, and supply chain for e-commerce",
+        "Implement A/B testing and conversion rate optimization strategies",
+        "Manage product listings, pricing strategies, and promotional campaigns",
+        "Grow online store revenue by 50-200% through data-driven optimizations"
+      ],
+      "Advanced": [
+        "Lead e-commerce strategy and P&L for multi-million dollar online businesses",
+        "Master omnichannel retail and marketplace management (Amazon, eBay)",
+        "Implement advanced personalization, AI-driven recommendations, and automation",
+        "Develop international expansion and scaling strategies",
+        "Build and lead e-commerce teams (marketing, operations, customer service)",
+        "Progress to Senior E-commerce Manager, Director, or Head of E-commerce"
+      ]
+    },
+    "resources": [
+      "Shopify Academy - E-commerce Courses",
+      "Google Analytics for E-commerce",
+      "YouTube - Wholesale Ted & Ac Hampton",
+      "Books - 'E-commerce Evolved' by Tanner Larsson"
+    ]
+  },
+  {
+    "career": "Content Writer / Copywriter",
+    "required_skills": ["Writing", "SEO", "Content Strategy", "Research", "Editing"],
+    "interest_tags": ["writing", "content", "creativity", "marketing", "storytelling"],
+    "roadmap": {
+      "Beginner": [
+        "Master writing fundamentals: grammar, style, tone, structure",
+        "Learn different content types: blog posts, articles, social media, email, web copy",
+        "Understand SEO basics: keywords, meta descriptions, content optimization",
+        "Study content marketing and storytelling principles",
+        "Build writing portfolio with 10-15 diverse pieces across niches",
+        "Start freelancing on Upwork, Fiverr, or Contently"
+      ],
+      "Intermediate": [
+        "Master SEO writing and content optimization techniques",
+        "Learn persuasive copywriting: headlines, CTAs, conversion-focused copy",
+        "Develop expertise in 2-3 niches (SaaS, finance, health, tech)",
+        "Understand content strategy and content calendar planning",
+        "Build portfolio with 30+ high-quality pieces and client testimonials",
+        "Command higher rates ($0.10-$0.30+ per word) and work with established brands"
+      ],
+      "Advanced": [
+        "Lead content strategy and editorial direction for brands or publications",
+        "Master brand voice development and content governance",
+        "Develop expertise in strategic content: white papers, case studies, thought leadership",
+        "Build personal brand and establish yourself as industry expert",
+        "Manage content teams or work as Senior Content Strategist",
+        "Progress to Content Director, VP Content, or establish successful freelance business ($100k+/year)"
+      ]
+    },
+    "resources": [
+      "Copyblogger - Content Marketing & Copywriting",
+      "HubSpot Content Marketing Certification",
+      "Books - 'Everybody Writes' by Ann Handley & 'Copywriting Secrets' by Jim Edwards",
+      "YouTube - Income School & Julia McCoy"
+    ]
+  },
+  {
+    "career": "AI Product Manager",
+    "required_skills": ["Product Management", "AI/ML Understanding", "Data Strategy", "Technical Communication", "Ethics"],
+    "interest_tags": ["AI", "product", "technology", "innovation", "strategy"],
+    "roadmap": {
+      "Beginner": [
+        "Master product management fundamentals: user research, roadmapping, prioritization",
+        "Learn AI/ML basics: supervised/unsupervised learning, model types, capabilities/limitations",
+        "Understand AI product lifecycle: data collection, training, deployment, monitoring",
+        "Study AI ethics, bias, fairness, and responsible AI principles",
+        "Build 2-3 AI-enhanced product concepts or side projects",
+        "Learn to communicate with data scientists and ML engineers effectively"
+      ],
+      "Intermediate": [
+        "Master AI product frameworks: problem framing, data strategy, success metrics",
+        "Learn model evaluation, A/B testing for AI, and performance monitoring",
+        "Understand MLOps basics and AI infrastructure requirements",
+        "Work on 3-5 AI product features or products in real-world settings",
+        "Develop expertise in AI application areas: NLP, computer vision, recommendation systems",
+        "Bridge business stakeholders and technical teams effectively"
+      ],
+      "Advanced": [
+        "Lead AI product strategy and roadmap for multiple products or platforms",
+        "Master emerging AI trends: generative AI, LLMs, multimodal AI, AI agents",
+        "Drive responsible AI practices, governance, and regulatory compliance",
+        "Build AI product culture and establish best practices in organizations",
+        "Mentor junior AI PMs and influence company AI strategy",
+        "Progress to Senior AI PM, Director of AI Products, or VP of AI/ML"
+      ]
+    },
+    "resources": [
+      "Coursera - AI Product Management Specialization",
+      "Books - 'Building Machine Learning Powered Applications' by Emmanuel Ameisen",
+      "AI Product Institute - Certifications",
+      "YouTube - AI Product Manager Channel"
+    ]
+  },
+  {
+    "career": "Social Media Manager",
+    "required_skills": ["Social Media Strategy", "Content Creation", "Analytics", "Community Management", "Creativity"],
+    "interest_tags": ["social-media", "content", "creative", "marketing", "engagement"],
+    "roadmap": {
+      "Beginner": [
+        "Learn social media fundamentals across platforms (Instagram, Facebook, LinkedIn, Twitter/X, TikTok)",
+        "Understand platform algorithms, content formats, and best practices",
+        "Master content creation basics: copywriting, basic design (Canva), video editing",
+        "Study social media analytics and metrics (reach, engagement, conversions)",
+        "Complete social media marketing certifications (HubSpot, Meta Blueprint)",
+        "Manage 2-3 social accounts for small businesses or personal brands"
+      ],
+      "Intermediate": [
+        "Master social media strategy: audience targeting, content calendars, campaign planning",
+        "Learn advanced content creation: graphic design, video production, storytelling",
+        "Implement social listening, community management, and reputation management",
+        "Understand paid social advertising (Facebook Ads, Instagram Ads, LinkedIn Ads)",
+        "Use analytics tools (Sprout Social, Hootsuite, native analytics) for optimization",
+        "Grow social accounts by 50-200% and manage $5k-$50k ad budgets"
+      ],
+      "Advanced": [
+        "Lead social media strategy aligned with business goals and brand positioning",
+        "Master influencer marketing, partnerships, and user-generated content strategies",
+        "Implement social commerce and conversion-focused social campaigns",
+        "Manage large budgets ($100k+) and lead social media teams",
+        "Build brand communities and drive customer advocacy programs",
+        "Progress to Senior Social Media Manager, Director of Social, or Head of Brand/Communications"
+      ]
+    },
+    "resources": [
+      "Meta Blueprint - Facebook & Instagram Certification",
+      "HubSpot Social Media Certification",
+      "YouTube - Vanessa Lau & Later",
+      "Hootsuite Academy - Social Marketing Courses"
+    ]
+  },
+  {
+    "career": "Mobile App Developer",
+    "required_skills": ["Swift/Kotlin", "React Native/Flutter", "UI/UX", "APIs", "App Store Optimization"],
+    "interest_tags": ["mobile", "apps", "development", "iOS", "Android"],
+    "roadmap": {
+      "Beginner": [
+        "Choose platform: Native (Swift for iOS, Kotlin for Android) or Cross-platform (React Native, Flutter)",
+        "Learn mobile development fundamentals: UI components, navigation, state management",
+        "Understand mobile design patterns and platform guidelines (Human Interface, Material Design)",
+        "Master API integration and local data storage",
+        "Build 3-5 simple apps (calculator, to-do, weather app) and publish to app stores",
+        "Learn version control (Git) and mobile development tools (Xcode, Android Studio)"
+      ],
+      "Intermediate": [
+        "Master advanced mobile concepts: animations, notifications, background tasks",
+        "Learn native device features: camera, location, sensors, payments",
+        "Implement authentication, cloud services (Firebase, AWS Amplify), and real-time features",
+        "Understand app architecture patterns (MVVM, Clean Architecture, Redux)",
+        "Build 3-5 feature-rich apps with backend integration and great UX",
+        "Learn App Store Optimization (ASO) and mobile analytics",
+        "Contribute to open-source mobile projects"
+      ],
+      "Advanced": [
+        "Master performance optimization, memory management, and app scalability",
+        "Implement advanced features: AR, ML on device, complex animations, offline-first architecture",
+        "Lead mobile development teams and establish mobile best practices",
+        "Design mobile architecture for large-scale applications",
+        "Specialize in iOS, Android, or cross-platform excellence",
+        "Progress to Senior Mobile Developer, Mobile Architect, or Lead Mobile Engineer",
+        "Launch successful apps with 10k+ downloads or work at top tech companies"
+      ]
+    },
+    "resources": [
+      "Apple Developer Documentation & WWDC Videos",
+      "Android Developer Documentation & Google Codelabs",
+      "Flutter Documentation & Flutter Widget of the Week",
+      "YouTube - iOS Academy, Philipp Lackner & Code with Andrea",
+      "Udacity - Mobile Development Nanodegrees"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+    "Data Scientist": {
+        "Specialize in deep learning, time series forecasting, or causal inference": "Completed",
+        "Learn big data tools (Spark) and cloud platforms (AWS/GCP)": "Completed",
+        "Deploy ML models in production using Docker, APIs, and monitoring tools": "In Progress",
+        "Lead business-critical projects and communicate insights to stakeholders": "Not Started",
+        "Mentor junior data scientists and contribute to DS communities": "Not Started"
+    }
+}
