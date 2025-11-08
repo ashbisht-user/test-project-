@@ -1,5 +1,6 @@
 streamlit
 sentence-transformers==2.2.2
+torch
+transformers
 scikit-learn
 numpy
-pandas
