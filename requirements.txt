@@ -1,7 +1,8 @@
 streamlit
 sentence-transformers==2.2.2
-torch
-transformers
-huggingface-hub
 scikit-learn
 numpy
+torch
+transformers
+huggingface_hub
+protobuf
